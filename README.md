@@ -1,3 +1,28 @@
+![image](https://github.com/Aryan26-bit/shopkart/assets/53808891/b6031cde-97ab-476a-a32c-a7735fb0626a)
+![image](https://github.com/Aryan26-bit/shopkart/assets/53808891/e45ca5ab-9c37-42f4-b757-1a742c0e9b3a)
+![image](https://github.com/Aryan26-bit/shopkart/assets/53808891/2175b800-546d-47ef-b9d9-c84f9f020ce3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
