@@ -1,0 +1,43 @@
+.back {
+  background-color: #1a1a1a;
+  width: 100%;
+  height: 42px;
+  flex-shrink: 0;
+  position: sticky;
+}
+
+li {
+  color: #626262;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  cursor: pointer;
+}
+
+/* .list_horizontal {
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+} */
+
+.list_horizontal2 {
+  /* display: inline-block; */
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+  float: right;
+  gap: 25px;
+}
+
+.list_horizontal {
+  margin-top: 16px;
+  margin-left: 30px;
+  float: left;
+  /* display: inline-block; */
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+  gap: 25px;
+}

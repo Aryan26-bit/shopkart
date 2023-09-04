@@ -1,0 +1,20 @@
+.content {
+  padding-top: 25px;
+  text-align: center;
+  /* float: right; */
+  color: #fff;
+  font-family: Poppins;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.box {
+  /* margin-top: 4px; */
+  padding-top: 1px;
+  width: 100%;
+  height: 66px;
+  flex-shrink: 0;
+  background: var(--Grey-scale-1000, #000);
+}
